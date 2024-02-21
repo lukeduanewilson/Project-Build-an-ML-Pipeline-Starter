@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/15eeaa3fa670411a92fae2de3aa33635/artifacts
+end_time: 1708499409405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15eeaa3fa670411a92fae2de3aa33635
+run_name: flawless-kite-128
+run_uuid: 15eeaa3fa670411a92fae2de3aa33635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708499320869
+status: 3
+tags: []
+user_id: lwilson

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bd5985a70ca64235af379c601b5bf432/artifacts
+end_time: 1708499346896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd5985a70ca64235af379c601b5bf432
+run_name: worried-eel-435
+run_uuid: bd5985a70ca64235af379c601b5bf432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708499334114
+status: 3
+tags: []
+user_id: lwilson

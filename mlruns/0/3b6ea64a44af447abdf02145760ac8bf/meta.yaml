@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3b6ea64a44af447abdf02145760ac8bf/artifacts
+end_time: 1708499375626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b6ea64a44af447abdf02145760ac8bf
+run_name: whimsical-worm-910
+run_uuid: 3b6ea64a44af447abdf02145760ac8bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708499356291
+status: 3
+tags: []
+user_id: lwilson

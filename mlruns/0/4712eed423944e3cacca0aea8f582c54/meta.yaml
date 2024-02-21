@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4712eed423944e3cacca0aea8f582c54/artifacts
+end_time: 1708499354111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4712eed423944e3cacca0aea8f582c54
+run_name: funny-lark-600
+run_uuid: 4712eed423944e3cacca0aea8f582c54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708499346905
+status: 3
+tags: []
+user_id: lwilson

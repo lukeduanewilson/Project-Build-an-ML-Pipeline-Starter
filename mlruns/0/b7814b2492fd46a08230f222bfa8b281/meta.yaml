@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b7814b2492fd46a08230f222bfa8b281/artifacts
+end_time: 1708498512997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7814b2492fd46a08230f222bfa8b281
+run_name: caring-stoat-66
+run_uuid: b7814b2492fd46a08230f222bfa8b281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708498501884
+status: 4
+tags: []
+user_id: lwilson

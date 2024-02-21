@@ -1,0 +1,10 @@
+2024-02-20 21:43:21,289 Minimum price: 10, Maximum price: 350
+2024-02-20 21:43:21,296 Preparing sklearn pipeline
+Traceback (most recent call last):
+  File "/home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 299, in <module>
+    go(args)
+  File "/home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 69, in go
+    sk_pipe, processed_features = get_inference_pipeline(rf_config, args.max_tfidf_features)
+  File "/home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 168, in get_inference_pipeline
+    non_ordinal_categorical_preproc = make_pipeline(
+TypeError: make_pipeline() got an unexpected keyword argument 'non_ordinal_categorical_preproc'

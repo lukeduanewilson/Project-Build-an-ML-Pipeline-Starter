@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c90e5d36906a43ea85642a6e607cfeb7/artifacts
+end_time: 1708496672631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c90e5d36906a43ea85642a6e607cfeb7
+run_name: nosy-mouse-328
+run_uuid: c90e5d36906a43ea85642a6e607cfeb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708496637696
+status: 3
+tags: []
+user_id: lwilson

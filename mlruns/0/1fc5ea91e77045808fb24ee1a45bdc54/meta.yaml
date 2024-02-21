@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1fc5ea91e77045808fb24ee1a45bdc54/artifacts
+end_time: 1708493378828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fc5ea91e77045808fb24ee1a45bdc54
+run_name: amusing-elk-997
+run_uuid: 1fc5ea91e77045808fb24ee1a45bdc54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708493366048
+status: 4
+tags: []
+user_id: lwilson

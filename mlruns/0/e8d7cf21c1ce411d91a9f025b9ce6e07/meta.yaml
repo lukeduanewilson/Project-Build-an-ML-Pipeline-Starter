@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e8d7cf21c1ce411d91a9f025b9ce6e07/artifacts
+end_time: 1708496818254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8d7cf21c1ce411d91a9f025b9ce6e07
+run_name: indecisive-wolf-136
+run_uuid: e8d7cf21c1ce411d91a9f025b9ce6e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708496613018
+status: 3
+tags: []
+user_id: lwilson

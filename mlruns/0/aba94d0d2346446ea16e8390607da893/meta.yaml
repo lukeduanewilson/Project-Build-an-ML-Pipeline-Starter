@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aba94d0d2346446ea16e8390607da893/artifacts
+end_time: 1708489311223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aba94d0d2346446ea16e8390607da893
+run_name: invincible-moose-895
+run_uuid: aba94d0d2346446ea16e8390607da893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708489297666
+status: 4
+tags: []
+user_id: lwilson

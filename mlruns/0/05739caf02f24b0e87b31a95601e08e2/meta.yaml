@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/05739caf02f24b0e87b31a95601e08e2/artifacts
+end_time: 1708492662053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05739caf02f24b0e87b31a95601e08e2
+run_name: skillful-jay-30
+run_uuid: 05739caf02f24b0e87b31a95601e08e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708492650533
+status: 4
+tags: []
+user_id: lwilson

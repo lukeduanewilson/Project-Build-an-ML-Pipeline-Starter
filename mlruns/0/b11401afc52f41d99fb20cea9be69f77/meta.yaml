@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b11401afc52f41d99fb20cea9be69f77/artifacts
+end_time: 1708493378984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b11401afc52f41d99fb20cea9be69f77
+run_name: merciful-goat-501
+run_uuid: b11401afc52f41d99fb20cea9be69f77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708493362245
+status: 4
+tags: []
+user_id: lwilson

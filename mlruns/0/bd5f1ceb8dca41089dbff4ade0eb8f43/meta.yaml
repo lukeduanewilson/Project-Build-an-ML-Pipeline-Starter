@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bd5f1ceb8dca41089dbff4ade0eb8f43/artifacts
+end_time: 1708494918220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd5f1ceb8dca41089dbff4ade0eb8f43
+run_name: zealous-pig-859
+run_uuid: bd5f1ceb8dca41089dbff4ade0eb8f43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708494908001
+status: 4
+tags: []
+user_id: lwilson

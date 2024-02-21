@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fb7c59459ab940c8af25e093e53ebd7b/artifacts
+end_time: 1708486550222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb7c59459ab940c8af25e093e53ebd7b
+run_name: tasteful-snipe-295
+run_uuid: fb7c59459ab940c8af25e093e53ebd7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708486548252
+status: 4
+tags: []
+user_id: lwilson

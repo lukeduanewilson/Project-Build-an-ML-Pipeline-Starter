@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c3cbead6506e4f10915ca396772fe18e/artifacts
+end_time: 1708490885241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3cbead6506e4f10915ca396772fe18e
+run_name: kindly-bear-910
+run_uuid: c3cbead6506e4f10915ca396772fe18e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708490862467
+status: 4
+tags: []
+user_id: lwilson

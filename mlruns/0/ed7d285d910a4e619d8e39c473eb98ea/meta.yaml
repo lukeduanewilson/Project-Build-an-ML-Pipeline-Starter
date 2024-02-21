@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ed7d285d910a4e619d8e39c473eb98ea/artifacts
+end_time: 1708496325967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed7d285d910a4e619d8e39c473eb98ea
+run_name: sassy-toad-146
+run_uuid: ed7d285d910a4e619d8e39c473eb98ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708496311882
+status: 4
+tags: []
+user_id: lwilson

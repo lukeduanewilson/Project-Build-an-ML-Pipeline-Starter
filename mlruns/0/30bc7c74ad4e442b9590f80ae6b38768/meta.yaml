@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/30bc7c74ad4e442b9590f80ae6b38768/artifacts
+end_time: 1708487143131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30bc7c74ad4e442b9590f80ae6b38768
+run_name: bemused-frog-166
+run_uuid: 30bc7c74ad4e442b9590f80ae6b38768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708487141146
+status: 4
+tags: []
+user_id: lwilson

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b5453801c0ee4045baffb40532250eeb/artifacts
+end_time: 1708496377007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5453801c0ee4045baffb40532250eeb
+run_name: enthused-grub-465
+run_uuid: b5453801c0ee4045baffb40532250eeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708496368086
+status: 4
+tags: []
+user_id: lwilson

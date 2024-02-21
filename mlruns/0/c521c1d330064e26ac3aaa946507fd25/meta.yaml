@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c521c1d330064e26ac3aaa946507fd25/artifacts
+end_time: 1708496570496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c521c1d330064e26ac3aaa946507fd25
+run_name: dapper-bee-493
+run_uuid: c521c1d330064e26ac3aaa946507fd25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708496563282
+status: 3
+tags: []
+user_id: lwilson

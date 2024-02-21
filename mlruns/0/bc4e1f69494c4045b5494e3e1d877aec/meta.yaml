@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bc4e1f69494c4045b5494e3e1d877aec/artifacts
+end_time: 1708492867790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc4e1f69494c4045b5494e3e1d877aec
+run_name: sassy-skink-211
+run_uuid: bc4e1f69494c4045b5494e3e1d877aec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708492794062
+status: 4
+tags: []
+user_id: lwilson

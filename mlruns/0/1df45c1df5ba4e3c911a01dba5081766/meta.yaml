@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1df45c1df5ba4e3c911a01dba5081766/artifacts
+end_time: 1708491648146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1df45c1df5ba4e3c911a01dba5081766
+run_name: auspicious-sow-274
+run_uuid: 1df45c1df5ba4e3c911a01dba5081766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708491553876
+status: 3
+tags: []
+user_id: lwilson

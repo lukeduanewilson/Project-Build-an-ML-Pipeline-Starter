@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7640343003cc4f06b090ca0b123faba3/artifacts
+end_time: 1708496116489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7640343003cc4f06b090ca0b123faba3
+run_name: magnificent-croc-393
+run_uuid: 7640343003cc4f06b090ca0b123faba3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708496102431
+status: 4
+tags: []
+user_id: lwilson

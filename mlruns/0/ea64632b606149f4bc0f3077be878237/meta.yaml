@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ea64632b606149f4bc0f3077be878237/artifacts
+end_time: 1708491511112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea64632b606149f4bc0f3077be878237
+run_name: receptive-jay-717
+run_uuid: ea64632b606149f4bc0f3077be878237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708491474766
+status: 3
+tags: []
+user_id: lwilson

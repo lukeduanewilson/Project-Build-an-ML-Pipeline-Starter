@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f90346e4768c4f7285d7178502406b06/artifacts
+end_time: 1708496325803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f90346e4768c4f7285d7178502406b06
+run_name: upbeat-rook-417
+run_uuid: f90346e4768c4f7285d7178502406b06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708496315731
+status: 4
+tags: []
+user_id: lwilson

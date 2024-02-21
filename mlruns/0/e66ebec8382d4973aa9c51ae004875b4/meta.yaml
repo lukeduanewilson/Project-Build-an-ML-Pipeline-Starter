@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e66ebec8382d4973aa9c51ae004875b4/artifacts
+end_time: 1708490606911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e66ebec8382d4973aa9c51ae004875b4
+run_name: casual-swan-951
+run_uuid: e66ebec8382d4973aa9c51ae004875b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708490596392
+status: 4
+tags: []
+user_id: lwilson

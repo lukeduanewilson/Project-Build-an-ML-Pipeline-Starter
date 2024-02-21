@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/304df44801fb401891b90529fe7bbc0b/artifacts
+end_time: 1708489020653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 304df44801fb401891b90529fe7bbc0b
+run_name: powerful-asp-204
+run_uuid: 304df44801fb401891b90529fe7bbc0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708489009050
+status: 4
+tags: []
+user_id: lwilson

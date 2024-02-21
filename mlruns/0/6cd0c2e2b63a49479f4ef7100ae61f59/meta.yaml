@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6cd0c2e2b63a49479f4ef7100ae61f59/artifacts
+end_time: 1708488963500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cd0c2e2b63a49479f4ef7100ae61f59
+run_name: intelligent-deer-585
+run_uuid: 6cd0c2e2b63a49479f4ef7100ae61f59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708488961538
+status: 4
+tags: []
+user_id: lwilson

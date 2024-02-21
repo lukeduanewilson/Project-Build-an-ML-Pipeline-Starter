@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/90947194bc9242f39400cd592a1d823c/artifacts
+end_time: 1708493324718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90947194bc9242f39400cd592a1d823c
+run_name: flawless-deer-84
+run_uuid: 90947194bc9242f39400cd592a1d823c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708493315628
+status: 4
+tags: []
+user_id: lwilson

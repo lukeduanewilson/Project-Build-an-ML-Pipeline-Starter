@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a1e5137a28ec49908e49538f2f2301eb/artifacts
+end_time: 1708497616513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1e5137a28ec49908e49538f2f2301eb
+run_name: puzzled-panda-710
+run_uuid: a1e5137a28ec49908e49538f2f2301eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708497612491
+status: 4
+tags: []
+user_id: lwilson

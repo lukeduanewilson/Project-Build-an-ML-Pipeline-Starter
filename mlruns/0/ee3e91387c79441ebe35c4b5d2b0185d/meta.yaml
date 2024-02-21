@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ee3e91387c79441ebe35c4b5d2b0185d/artifacts
+end_time: 1708469421111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee3e91387c79441ebe35c4b5d2b0185d
+run_name: gaudy-penguin-428
+run_uuid: ee3e91387c79441ebe35c4b5d2b0185d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708469420289
+status: 4
+tags: []
+user_id: lwilson

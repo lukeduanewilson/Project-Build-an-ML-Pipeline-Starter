@@ -1,0 +1,13 @@
+2024-02-20 21:47:47,441 Minimum price: 10, Maximum price: 350
+2024-02-20 21:47:47,448 Preparing sklearn pipeline
+2024-02-20 21:47:47,449 Fitting
+2024-02-20 21:47:54,946 Scoring
+2024-02-20 21:47:55,054 Score: 0.5339406885517419
+2024-02-20 21:47:55,054 MAE: 33.565065789473685
+2024-02-20 21:47:55,055 Exporting model
+Traceback (most recent call last):
+  File "/home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 298, in <module>
+    go(args)
+  File "/home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 99, in go
+    signature = infer_signature(X_val, y_pred)
+NameError: name 'infer_signature' is not defined

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5dc08c12d687479b993290aeee1023e8/artifacts
+end_time: 1708496723196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dc08c12d687479b993290aeee1023e8
+run_name: unique-stork-504
+run_uuid: 5dc08c12d687479b993290aeee1023e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708496672724
+status: 3
+tags: []
+user_id: lwilson

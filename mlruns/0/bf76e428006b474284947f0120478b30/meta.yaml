@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bf76e428006b474284947f0120478b30/artifacts
+end_time: 1708487327484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf76e428006b474284947f0120478b30
+run_name: suave-pug-766
+run_uuid: bf76e428006b474284947f0120478b30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708487325521
+status: 4
+tags: []
+user_id: lwilson

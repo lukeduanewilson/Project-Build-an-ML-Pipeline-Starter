@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d029c6d6b336463ea0adabe6b54a85ec/artifacts
+end_time: 1708496818128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d029c6d6b336463ea0adabe6b54a85ec
+run_name: chill-shoat-896
+run_uuid: d029c6d6b336463ea0adabe6b54a85ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708496723298
+status: 3
+tags: []
+user_id: lwilson

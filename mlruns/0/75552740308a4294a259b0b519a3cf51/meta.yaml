@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/75552740308a4294a259b0b519a3cf51/artifacts
+end_time: 1708492867585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75552740308a4294a259b0b519a3cf51
+run_name: puzzled-rat-838
+run_uuid: 75552740308a4294a259b0b519a3cf51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708492797925
+status: 4
+tags: []
+user_id: lwilson

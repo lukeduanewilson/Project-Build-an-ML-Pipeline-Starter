@@ -1,0 +1,40 @@
+2024-02-20 23:22:45,490 INFO    MainThread:11338 [wandb_setup.py:_flush():68] Configure stats pid to 11338
+2024-02-20 23:22:45,490 INFO    MainThread:11338 [wandb_setup.py:_flush():68] Loading settings from /home/lwilson/.config/wandb/settings
+2024-02-20 23:22:45,490 INFO    MainThread:11338 [wandb_setup.py:_flush():68] Loading settings from /home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/settings
+2024-02-20 23:22:45,490 INFO    MainThread:11338 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-02-20 23:22:45,490 WARNING MainThread:11338 [wandb_setup.py:_flush():68] Could not save program above cwd: /home/lwilson/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest
+2024-02-20 23:22:45,490 INFO    MainThread:11338 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': None, 'program': '/home/lwilson/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest'}
+2024-02-20 23:22:45,490 INFO    MainThread:11338 [wandb_init.py:_log_setup():478] Logging user logs to /home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240220_232245-20pmzin2/logs/debug.log
+2024-02-20 23:22:45,490 INFO    MainThread:11338 [wandb_init.py:_log_setup():479] Logging internal logs to /home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240220_232245-20pmzin2/logs/debug-internal.log
+2024-02-20 23:22:45,491 INFO    MainThread:11338 [wandb_init.py:init():518] calling init triggers
+2024-02-20 23:22:45,491 INFO    MainThread:11338 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-02-20 23:22:45,491 INFO    MainThread:11338 [wandb_init.py:init():571] starting backend
+2024-02-20 23:22:45,491 INFO    MainThread:11338 [wandb_init.py:init():575] setting up manager
+2024-02-20 23:22:45,492 INFO    MainThread:11338 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-02-20 23:22:45,493 INFO    MainThread:11338 [wandb_init.py:init():582] backend started and connected
+2024-02-20 23:22:45,494 INFO    MainThread:11338 [wandb_init.py:init():670] updated telemetry
+2024-02-20 23:22:45,498 INFO    MainThread:11338 [wandb_init.py:init():710] communicating run to backend with 60.0 second timeout
+2024-02-20 23:22:46,001 INFO    MainThread:11338 [wandb_init.py:init():748] run resumed
+2024-02-20 23:22:46,004 INFO    MainThread:11338 [wandb_run.py:_on_init():2121] communicating current version
+2024-02-20 23:22:46,144 INFO    MainThread:11338 [wandb_run.py:_on_init():2125] got version response upgrade_message: "wandb version 0.16.3 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-02-20 23:22:46,144 INFO    MainThread:11338 [wandb_init.py:init():758] starting run threads in backend
+2024-02-20 23:22:46,188 INFO    MainThread:11338 [wandb_run.py:_console_start():2101] atexit reg
+2024-02-20 23:22:46,188 INFO    MainThread:11338 [wandb_run.py:_redirect():1959] redirect: SettingsConsole.WRAP_RAW
+2024-02-20 23:22:46,188 INFO    MainThread:11338 [wandb_run.py:_redirect():2024] Wrapping output streams.
+2024-02-20 23:22:46,189 INFO    MainThread:11338 [wandb_run.py:_redirect():2046] Redirects installed.
+2024-02-20 23:22:46,189 INFO    MainThread:11338 [wandb_init.py:init():798] run started, returning control to user process
+2024-02-20 23:22:46,930 INFO    MainThread:11338 [wandb_setup.py:_flush():68] Configure stats pid to 11338
+2024-02-20 23:22:46,930 INFO    MainThread:11338 [wandb_setup.py:_flush():68] Loading settings from /home/lwilson/.config/wandb/settings
+2024-02-20 23:22:46,930 INFO    MainThread:11338 [wandb_setup.py:_flush():68] Loading settings from /home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/settings
+2024-02-20 23:22:46,930 INFO    MainThread:11338 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-02-20 23:22:46,930 WARNING MainThread:11338 [wandb_setup.py:_flush():68] Could not save program above cwd: /home/lwilson/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest
+2024-02-20 23:22:46,930 INFO    MainThread:11338 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': None, 'program': '/home/lwilson/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest'}
+2024-02-20 23:22:46,930 INFO    MainThread:11338 [wandb_init.py:_log_setup():478] Logging user logs to /home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240220_232246-20pmzin2/logs/debug.log
+2024-02-20 23:22:46,930 INFO    MainThread:11338 [wandb_init.py:_log_setup():479] Logging internal logs to /home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240220_232246-20pmzin2/logs/debug-internal.log
+2024-02-20 23:22:46,931 INFO    MainThread:11338 [wandb_init.py:init():518] calling init triggers
+2024-02-20 23:22:46,931 INFO    MainThread:11338 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-02-20 23:22:46,931 INFO    MainThread:11338 [wandb_init.py:init():566] wandb.init() called when a run is still active
+2024-02-20 23:22:50,028 WARNING MsgRouterThr:11338 [router.py:message_loop():77] message_loop has been closed

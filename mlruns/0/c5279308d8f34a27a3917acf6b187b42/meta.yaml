@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c5279308d8f34a27a3917acf6b187b42/artifacts
+end_time: 1708490394332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5279308d8f34a27a3917acf6b187b42
+run_name: worried-wasp-241
+run_uuid: c5279308d8f34a27a3917acf6b187b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708490381593
+status: 4
+tags: []
+user_id: lwilson

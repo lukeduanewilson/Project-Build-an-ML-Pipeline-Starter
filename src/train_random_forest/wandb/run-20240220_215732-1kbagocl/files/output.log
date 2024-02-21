@@ -1,0 +1,9 @@
+2024-02-20 21:57:35,216 Minimum price: 10, Maximum price: 350
+2024-02-20 21:57:35,225 Preparing sklearn pipeline
+2024-02-20 21:57:35,227 Fitting
+2024-02-20 21:57:42,789 Scoring
+2024-02-20 21:57:42,898 Score: 0.5339406885517419
+2024-02-20 21:57:42,898 MAE: 33.565065789473685
+2024-02-20 21:57:42,899 Exporting model
+2024/02/20 21:57:43 WARNING mlflow.utils.environment: Encountered an unexpected error while inferring pip requirements (model URI: random_forest_dir/model.pkl, flavor: sklearn), fall back to return ['scikit-learn==0.24.1']. Set logging level to DEBUG to see the full traceback.
+[34m[1mwandb[39m[22m: Adding directory to artifact (./random_forest_dir)... Done. 0.0s

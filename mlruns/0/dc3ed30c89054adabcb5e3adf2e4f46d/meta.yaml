@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dc3ed30c89054adabcb5e3adf2e4f46d/artifacts
+end_time: 1708487744936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc3ed30c89054adabcb5e3adf2e4f46d
+run_name: efficient-chimp-726
+run_uuid: dc3ed30c89054adabcb5e3adf2e4f46d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708487656617
+status: 4
+tags: []
+user_id: lwilson

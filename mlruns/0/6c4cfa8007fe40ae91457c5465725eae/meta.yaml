@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6c4cfa8007fe40ae91457c5465725eae/artifacts
+end_time: 1708496377164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c4cfa8007fe40ae91457c5465725eae
+run_name: respected-shrew-146
+run_uuid: 6c4cfa8007fe40ae91457c5465725eae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708496364332
+status: 4
+tags: []
+user_id: lwilson

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/717663c83b2a4580a83eaa4c743ea205/artifacts
+end_time: 1708492332291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 717663c83b2a4580a83eaa4c743ea205
+run_name: defiant-whale-8
+run_uuid: 717663c83b2a4580a83eaa4c743ea205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708492330564
+status: 4
+tags: []
+user_id: lwilson

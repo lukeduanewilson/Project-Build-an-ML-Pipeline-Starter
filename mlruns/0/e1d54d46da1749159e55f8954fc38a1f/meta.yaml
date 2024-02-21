@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e1d54d46da1749159e55f8954fc38a1f/artifacts
+end_time: 1708486433903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1d54d46da1749159e55f8954fc38a1f
+run_name: victorious-finch-872
+run_uuid: e1d54d46da1749159e55f8954fc38a1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708486433084
+status: 4
+tags: []
+user_id: lwilson

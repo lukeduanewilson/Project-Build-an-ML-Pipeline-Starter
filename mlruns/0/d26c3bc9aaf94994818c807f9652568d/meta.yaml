@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d26c3bc9aaf94994818c807f9652568d/artifacts
+end_time: 1708491474673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d26c3bc9aaf94994818c807f9652568d
+run_name: thoughtful-mare-556
+run_uuid: d26c3bc9aaf94994818c807f9652568d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708491450025
+status: 3
+tags: []
+user_id: lwilson

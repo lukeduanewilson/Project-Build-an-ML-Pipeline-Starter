@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ae33beb5f2e0450d8c60e9274db4d3da/artifacts
+end_time: 1708494918386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae33beb5f2e0450d8c60e9274db4d3da
+run_name: bald-moth-390
+run_uuid: ae33beb5f2e0450d8c60e9274db4d3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708494904167
+status: 4
+tags: []
+user_id: lwilson

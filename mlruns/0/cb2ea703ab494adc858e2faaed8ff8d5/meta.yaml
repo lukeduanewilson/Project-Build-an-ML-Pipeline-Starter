@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cb2ea703ab494adc858e2faaed8ff8d5/artifacts
+end_time: 1708485085662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb2ea703ab494adc858e2faaed8ff8d5
+run_name: exultant-owl-556
+run_uuid: cb2ea703ab494adc858e2faaed8ff8d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708484973806
+status: 3
+tags: []
+user_id: lwilson

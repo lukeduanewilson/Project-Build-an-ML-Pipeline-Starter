@@ -1,0 +1,8 @@
+2024-02-20 23:25:29,314 Minimum price: 10, Maximum price: 350
+2024-02-20 23:25:29,321 Preparing sklearn pipeline
+2024-02-20 23:25:29,322 Fitting
+2024-02-20 23:26:27,036 Scoring
+2024-02-20 23:26:27,187 Score: 0.552568887885921
+2024-02-20 23:26:27,187 MAE: 33.45150822368421
+2024-02-20 23:26:27,187 Exporting model
+[34m[1mwandb[39m[22m: Adding directory to artifact (./random_forest_dir)... Done. 0.1s

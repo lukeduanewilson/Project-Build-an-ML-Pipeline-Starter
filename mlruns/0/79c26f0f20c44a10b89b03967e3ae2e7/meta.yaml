@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/79c26f0f20c44a10b89b03967e3ae2e7/artifacts
+end_time: 1708535979172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79c26f0f20c44a10b89b03967e3ae2e7
+run_name: painted-sheep-687
+run_uuid: 79c26f0f20c44a10b89b03967e3ae2e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708535963326
+status: 3
+tags: []
+user_id: lwilson

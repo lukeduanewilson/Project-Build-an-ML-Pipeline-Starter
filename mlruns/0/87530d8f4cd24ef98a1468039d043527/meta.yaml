@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/87530d8f4cd24ef98a1468039d043527/artifacts
+end_time: 1708536008829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87530d8f4cd24ef98a1468039d043527
+run_name: whimsical-shrew-932
+run_uuid: 87530d8f4cd24ef98a1468039d043527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708535994685
+status: 3
+tags: []
+user_id: lwilson

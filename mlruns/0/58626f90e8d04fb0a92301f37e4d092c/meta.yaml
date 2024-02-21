@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/58626f90e8d04fb0a92301f37e4d092c/artifacts
+end_time: 1708536029671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58626f90e8d04fb0a92301f37e4d092c
+run_name: burly-ant-955
+run_uuid: 58626f90e8d04fb0a92301f37e4d092c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708536011086
+status: 3
+tags: []
+user_id: lwilson

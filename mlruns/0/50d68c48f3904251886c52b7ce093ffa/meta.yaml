@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/50d68c48f3904251886c52b7ce093ffa/artifacts
+end_time: 1708535994676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50d68c48f3904251886c52b7ce093ffa
+run_name: crawling-shark-186
+run_uuid: 50d68c48f3904251886c52b7ce093ffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708535979181
+status: 3
+tags: []
+user_id: lwilson

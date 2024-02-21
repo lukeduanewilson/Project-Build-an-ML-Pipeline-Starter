@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/27fda6bdc1554ec5925b02231a4c110d/artifacts
+end_time: 1708536104603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27fda6bdc1554ec5925b02231a4c110d
+run_name: honorable-ox-288
+run_uuid: 27fda6bdc1554ec5925b02231a4c110d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708536029682
+status: 3
+tags: []
+user_id: lwilson

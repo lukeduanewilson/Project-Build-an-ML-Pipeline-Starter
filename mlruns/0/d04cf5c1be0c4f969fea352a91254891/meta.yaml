@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d04cf5c1be0c4f969fea352a91254891/artifacts
+end_time: 1708534191736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d04cf5c1be0c4f969fea352a91254891
+run_name: upset-frog-912
+run_uuid: d04cf5c1be0c4f969fea352a91254891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708534165921
+status: 3
+tags: []
+user_id: lwilson

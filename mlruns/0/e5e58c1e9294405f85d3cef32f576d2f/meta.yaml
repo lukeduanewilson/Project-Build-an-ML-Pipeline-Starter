@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e5e58c1e9294405f85d3cef32f576d2f/artifacts
+end_time: 1708534224386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5e58c1e9294405f85d3cef32f576d2f
+run_name: silent-pug-397
+run_uuid: e5e58c1e9294405f85d3cef32f576d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708534191828
+status: 3
+tags: []
+user_id: lwilson

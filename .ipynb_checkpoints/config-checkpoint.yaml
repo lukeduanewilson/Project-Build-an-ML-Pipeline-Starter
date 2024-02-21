@@ -25,6 +25,9 @@ modeling:
   max_tfidf_features: 5
   # NOTE: you can put here any parameter that is accepted by the constructor of
   # RandomForestRegressor. This is a subsample, but more could be added:
+  
+   #vibrant-firecracker had the max_d of 15 and the n_estir of 100, and yielded the best mae value, so we're keeping the values as is.
+   
   random_forest:
     n_estimators: 100
     max_depth: 15

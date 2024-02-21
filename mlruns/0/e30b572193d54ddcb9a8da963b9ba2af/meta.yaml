@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e30b572193d54ddcb9a8da963b9ba2af/artifacts
+end_time: 1708534274850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e30b572193d54ddcb9a8da963b9ba2af
+run_name: gregarious-asp-289
+run_uuid: e30b572193d54ddcb9a8da963b9ba2af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708534224477
+status: 3
+tags: []
+user_id: lwilson

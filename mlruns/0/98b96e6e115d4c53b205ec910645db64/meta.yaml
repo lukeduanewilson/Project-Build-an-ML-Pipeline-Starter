@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/98b96e6e115d4c53b205ec910645db64/artifacts
+end_time: 1708534758693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98b96e6e115d4c53b205ec910645db64
+run_name: unequaled-frog-881
+run_uuid: 98b96e6e115d4c53b205ec910645db64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708534745408
+status: 3
+tags: []
+user_id: lwilson

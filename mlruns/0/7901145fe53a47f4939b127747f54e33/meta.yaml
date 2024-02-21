@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7901145fe53a47f4939b127747f54e33/artifacts
+end_time: 1708534368031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7901145fe53a47f4939b127747f54e33
+run_name: valuable-lamb-363
+run_uuid: 7901145fe53a47f4939b127747f54e33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708534164075
+status: 3
+tags: []
+user_id: lwilson

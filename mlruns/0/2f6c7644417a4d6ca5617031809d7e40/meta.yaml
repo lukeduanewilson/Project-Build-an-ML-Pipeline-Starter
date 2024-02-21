@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2f6c7644417a4d6ca5617031809d7e40/artifacts
+end_time: 1708535662756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f6c7644417a4d6ca5617031809d7e40
+run_name: loud-shark-587
+run_uuid: 2f6c7644417a4d6ca5617031809d7e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708535647394
+status: 3
+tags: []
+user_id: lwilson

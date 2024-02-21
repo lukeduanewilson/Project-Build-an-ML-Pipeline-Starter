@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1079fec8c8cf447d891f6bf0e511bb0b/artifacts
+end_time: 1708535679640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1079fec8c8cf447d891f6bf0e511bb0b
+run_name: sneaky-trout-434
+run_uuid: 1079fec8c8cf447d891f6bf0e511bb0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708535662765
+status: 3
+tags: []
+user_id: lwilson

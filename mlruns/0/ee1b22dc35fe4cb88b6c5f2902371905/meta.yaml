@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lwilson/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ee1b22dc35fe4cb88b6c5f2902371905/artifacts
+end_time: 1708535688029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee1b22dc35fe4cb88b6c5f2902371905
+run_name: treasured-cub-652
+run_uuid: ee1b22dc35fe4cb88b6c5f2902371905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708535642655
+status: 4
+tags: []
+user_id: lwilson
